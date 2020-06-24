@@ -16,7 +16,7 @@
 
 ---
 
-## 아이디어   
+## 아이디어 주제    
 AI를 사용한 재래시장 활성화 아이디어  
 
 ### 아이디어 구상 이유   
@@ -31,11 +31,18 @@ AI를 사용한 재래시장 활성화 아이디어
 
 ---
 
-## System Architecture   
+### System Architecture   
+![시스템 아키텍쳐](https://user-images.githubusercontent.com/45002556/85578997-75ae2f80-b675-11ea-99a5-e5e897b3e645.png)   
 
+### Procedure   
+ ![프로시져](https://user-images.githubusercontent.com/45002556/85578950-6b8c3100-b675-11ea-819a-150abd80e2e4.jpg)   
+ 
+### DB Schema   
+![데이터베이스 스키마](https://user-images.githubusercontent.com/45002556/85578890-616a3280-b675-11ea-8224-576aeea7e2f9.png)   
 
-## Procedure
-## DB Schema
-## 어플리케이션 디자인
-## 결과
+### 어플리케이션 디자인 예시   
+![어플 디자인 예시](https://user-images.githubusercontent.com/45002556/85578669-37187500-b675-11ea-999b-2421ad503e28.png)   
+
+### 결과   
+
 
