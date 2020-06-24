@@ -32,6 +32,8 @@ AI를 사용한 재래시장 활성화 아이디어
 ---
 
 ## System Architecture   
+
+
 ## Procedure
 ## DB Schema
 ## 어플리케이션 디자인
